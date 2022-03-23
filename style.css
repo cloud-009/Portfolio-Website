@@ -543,6 +543,7 @@ section .title::after{
 /* icons */
 .wrapper .button{
     display: inline-block;
+    margin-left: 10px;
     height: 60px;
     text-align: center;
     width: 60px;
